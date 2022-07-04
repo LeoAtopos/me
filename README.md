@@ -15,12 +15,18 @@ This should be a place I can get me-shits together, and of course, you may know 
 * twitter：[LeoDing](https://twitter.com/LeoDing3)
 
 ## 作品
+
 ### 商业游戏
+
 * [《神都不良探》](https://store.steampowered.com/app/1681970/_Underdog_Detective/)——steam平台FMV冒险解谜游戏
 * [More](games/GameList.md)
+
 ### 文章
+
 * [传统文化概念系统化1.0](https://www.bilibili.com/read/cv17282826)——兴趣使然的哲学文章
 * [More]()
+
 ### 个人项目
+
 * [道中太极](https://leo-ding.itch.io/taijiontheway)——玩unity的shader graphic的一个试验小项目
 * [More]()
