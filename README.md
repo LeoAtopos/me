@@ -10,7 +10,7 @@ This should be a place I can get me-shits together, and of course, you may know 
 
 "创作就是文明的扩张，心智的成长，亲人的鼻息。"
 
-找到我 -- 放开创作讨论和闲聊
+找到我 -- 放开创作讨论，就很棒
 
 * 微信\QQ：275142760
 * 邮件：275142760@qq.com
