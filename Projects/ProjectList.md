@@ -1,5 +1,12 @@
 ### 个人项目
 
+* 2！Yeah~~
+  * 2022年玩GGJ的小项目。主题是“Duality”
+  * 自觉还挺有趣的，自己的作画、配音、代码、设计。
+  * [完全自创版本下载](https://www.gmhub.com/game/329)
+  * [被后来的策划加工过美术后的版本的下载](https://globalgamejam.org/2022/games/duality%EF%BC%81yeah-3)
+<br/><br/>
+
 * 道中太极
   * 在itch上的试验小游戏。
   * 就是玩玩unity的shader graph。
