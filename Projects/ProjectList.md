@@ -17,5 +17,12 @@
   * 这是个结构上很简单的inkle文字互动小说游戏。
   * “When My Thought Turned”文件夹中的index.html，点[思之转](https://leoatopos.github.io/WMTT/When%20My%20Thought%20Turned/index.html)就可以用浏览器进行游戏。
   * 游戏时长5分钟。
+<br/><br/>
+
+* PilePilePile
+  * 和娃一起玩搭积木的时候，总是会不自觉的尝试能搭到多高。
+  * 于是就有了这个堆堆堆的游戏，你可以在场景里自由移动，找到诀窍，将积木块堆到目标高度而过关。
+  * 只做了三关，还有很多想法没空做，先这样吧。
+  * 点击[itch上的页面下载玩](https://leo-ding.itch.io/pilepilepile)，只有windows版本。
 
 （未整理完...)
