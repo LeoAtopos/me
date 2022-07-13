@@ -1,7 +1,8 @@
 ### 商业游戏 Commercial Games
 
 * **《神都不良探》**（制作人）
-<img src="underdog_detective.png" width=100% height=100%>
+  * ![](underdog_detective.png )
+  * <img src="underdog_detective.png" width=100% height=100%>
   * 2022年发售steam平台的FMV，但其实是探案题材的冒险解谜游戏。
   * 牵涉人员超200人，碰上疫情，又是原创创新，能做出来就真的很佩服自己的运气了。
   * 关卡设计自满。这个项目验证了通过理性推导完成创新设计的方法通道。
