@@ -1,6 +1,6 @@
 <style>
 img{
-    width: 100%;
+    width: 84%;
 }
 </style>
 
