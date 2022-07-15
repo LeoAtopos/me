@@ -7,6 +7,12 @@
   * [被后来的策划加工过美术后的版本的下载](https://globalgamejam.org/2022/games/duality%EF%BC%81yeah-3)
 <br><br>
 
+* **创作之道**
+  * 一个wiki，持续建设中，记录我的创作之道。
+  * 试图探讨设计哲学，收录平时的idea，整理游戏创作中的概念词库，自己总结的效率工具，以及一些资源和情报的汇总。
+  * [wiki地址](https://github.com/LeoAtopos/wogc/wiki)
+<br><br>
+
 * **道中太极**
   * 在itch上的试验小游戏。
   * 就是玩玩unity的shader graph。
@@ -24,11 +30,8 @@
   * 于是就有了这个堆堆堆的游戏，你可以在场景里自由移动，找到诀窍，将积木块堆到目标高度而过关。
   * 只做了三关，还有很多想法没空做，先这样吧。
   * 点击[itch上的页面下载玩](https://leo-ding.itch.io/pilepilepile)，只有windows版本。
-<br><br>
 
-* **创作之道**
-  * 一个wiki，持续建设中，记录我的创作之道。
-  * 试图探讨设计哲学，收录平时的idea，整理游戏创作中的概念词库，自己总结的效率工具，以及一些资源和情报的汇总。
-  * [wiki地址](https://github.com/LeoAtopos/wogc/wiki)
+
+
 
 （未整理完...)
