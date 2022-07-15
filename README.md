@@ -31,5 +31,5 @@ This should be a place I can get me-shits together, and of course, you may know 
 
 ### 个人项目
 
-* [道中太极](https://leo-ding.itch.io/taijiontheway)——玩unity的shader graphic的一个试验小项目
+* [2！Yeah~~](https://www.gmhub.com/game/329)——2022年玩GGJ的小项目，主题是“Duality”
 * [更多](Projects/ProjectList.md)
