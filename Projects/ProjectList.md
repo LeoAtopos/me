@@ -29,6 +29,6 @@
 * **创作之道**
   * 一个wiki，持续建设中，记录我的创作之道。
   * 试图探讨设计哲学，收录平时的idea，整理游戏创作中的概念词库，自己总结的效率工具，以及一些资源和情报的汇总。
-  * [wiki地址](https://github.com/LeoAtopos/wogc)
+  * [wiki地址](https://github.com/LeoAtopos/wogc/wiki)
 
 （未整理完...)
