@@ -12,10 +12,8 @@ This should be a place I can get me-shits together, and of course, you may know 
 
 找到我 -- 讨论创作，就很棒
 
-* 微信\QQ：275142760
 * 邮件：<275142760@qq.com>
 * B站：[LD犁地](https://space.bilibili.com/9321759)
-* twitter：[LeoDing](https://twitter.com/LeoDing3)
 
 ## 作品
 
