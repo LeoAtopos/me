@@ -29,5 +29,5 @@ This should be a place I can get me-shits together, and of course, you may know 
 
 ### 个人项目
 
-* [Harvest As Usual](https://leo-ding.itch.io/harvestasusual)——2023年玩LudumDare,完全一个人做的小游戏，主题是“Harvest”
+* [Harvest As Usual](https://leo-ding.itch.io/harvestasusual)——2023年玩LudumDare,48小时内完全一个人做的小游戏，主题是“Harvest”
 * [更多](Projects/ProjectList.md)
