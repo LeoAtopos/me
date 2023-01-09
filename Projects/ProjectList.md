@@ -1,5 +1,11 @@
 ### 个人项目
 
+- **《Harvest As Usual》**
+  - 最近（2023.1.6-8）参加LudumDare52的GamJam小游戏：HTML5 (web) https://leo-ding.itch.io/harvestasusual
+  - 源码Unity-2021.3.16f1：https://github.com/LeoAtopos/HarvestAsUsual
+  - 48小时根据主题Harvest，完全一个人开发的。从想法到最后实现，真的很过瘾。
+  - 别说，国外的GamJam气氛真的好很多。
+<br><br>
 - **《原文主义的刺客列传》**
   - 正在做的开源项目：https://github.com/LeoAtopos/TheCikeStories
   - 用原文一句一句的游戏化，探索这种设计理念的可能性。
