@@ -1,5 +1,11 @@
 ### 个人项目
 
+- **《RootsNoRoots》**
+  - 最近（2023.2.3-5）参加GGJ的48小时小游戏：HTML5 (web) https://leo-ding.itch.io/rootsnoroots
+  - 完全一个人开发，但这个游戏有点烂，还是别体验了，看看别的吧。
+  - 感觉需要自我突破了。
+<br><br>
+
 - **《Harvest As Usual》**
   - 最近（2023.1.6-8）参加LudumDare52的GamJam小游戏：HTML5 (web) https://leo-ding.itch.io/harvestasusual
   - 源码Unity-2021.3.16f1：https://github.com/LeoAtopos/HarvestAsUsual
@@ -9,6 +15,7 @@
 - **《原文主义的刺客列传》**
   - 正在做的开源项目：https://github.com/LeoAtopos/TheCikeStories
   - 用原文一句一句的游戏化，探索这种设计理念的可能性。
+  - 已经可以玩了：https://leo-ding.itch.io/assassin-tales
   - 欢迎参与。观摩，鼓励，讨论，建议，共同开发。
 <br><br>
 * **2！Yeah~~**
