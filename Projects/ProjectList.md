@@ -29,6 +29,7 @@
   * 一个wiki，持续建设中，记录我的创作之道。
   * 试图探讨设计哲学，收录平时的idea，整理游戏创作中的概念词库，自己总结的效率工具，以及一些资源和情报的汇总。
   * [wiki地址](https://github.com/LeoAtopos/wogc/wiki)（年更，这个实在太琐碎了）
+  * 上次更新时间：2023.02.07，更新了[创作哲学](https://github.com/LeoAtopos/wogc/wiki/%E5%88%9B%E4%BD%9C%E5%93%B2%E5%AD%A6)。
 <br><br>
 
 * **道中太极**
