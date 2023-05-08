@@ -29,5 +29,5 @@ This should be a place I can get me-shits together, and of course, you may know 
 
 ### 个人项目
 
-* [Harvest As Usual](https://leo-ding.itch.io/harvestasusual)——2023年玩LudumDare，48小时内完全一个人做的小游戏，主题是“Harvest”
+* [原文主义的刺客列传](https://leo-ding.itch.io/assassin-tales)——2023年1月独自完成的一个小项目draft，任性的只考虑自己的想法的形式探索的项目
 * [更多](Projects/ProjectList.md)
