@@ -12,8 +12,8 @@ This should be a place I can get me-shits together, and of course, you may know 
 
 找到我 -- 讨论创作，就很棒
 
-* Twitter：https://twitter.com/LeoDing3
-* itch：https://leo-ding.itch.io/
+* Twitter：[https://twitter.com/LeoDing3](https://twitter.com/LeoDing3)
+* itch：[https://leo-ding.itch.io/](https://leo-ding.itch.io/)
 * Email：<275142760@qq.com>
 * B站：[LD犁地](https://space.bilibili.com/9321759)
 
