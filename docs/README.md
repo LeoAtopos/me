@@ -1,11 +1,26 @@
-# Leo Ding
+<style>
+.header-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.avatar {
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+</style>
+
+<div class="header-container">
+    <h1>Leo Ding</h1>
+    <img src="IMG_1520.JPG" alt="Leo Ding" class="avatar">
+</div>
 
 * 游戏制作人
 * 开发者
 * 内容创作者
 * itch：[https://leo-ding.itch.io/](https://leo-ding.itch.io/)
-* Email：<275142760@qq.com>
-* B站：[LD犁地](https://space.bilibili.com/9321759)
 * 当前状态：独立游戏开发中
 
 # 商业游戏
