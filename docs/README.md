@@ -6,6 +6,7 @@
 * itch：[https://leo-ding.itch.io/](https://leo-ding.itch.io/)
 * Email：<275142760@qq.com>
 * B站：[LD犁地](https://space.bilibili.com/9321759)
+* 当前状态：独立游戏开发中
 
 # 商业游戏
 
