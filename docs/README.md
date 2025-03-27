@@ -1,16 +1,4 @@
-<style>
-.header-container {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-}
-.avatar {
-    width: 200px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-}
-</style>
+
 
 <div class="header-container">
     <h1>Leo Ding</h1>
