@@ -1,7 +1,7 @@
 
 # Leo Ding
 
-![](IMG_1520.JPG)
+![](IMG_1520.JPG){:.align-right width="300px"}
 
 * 游戏制作人
 * 开发者
