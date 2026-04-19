@@ -1,4 +1,10 @@
 
+<style>
+img{
+    width: 50%;
+}
+</style>
+
 # Leo Ding
 
 ![](IMG_1520.JPG)
