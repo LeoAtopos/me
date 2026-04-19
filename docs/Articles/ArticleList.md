@@ -30,7 +30,7 @@
   * 这里补充个[作者说明](Articles/BornOfJ-ref.md)，实在想搞明白背后的故事设定的，可以看这里。
 
 ## **散文**
-  * [谈谈贾木许](Jarmusch.md)
+  * [谈谈贾木许](Articles/Jarmusch.md)
 
 ## 更多
   * 在机核：[LD离地](https://www.gcores.com/users/273050/talks)
