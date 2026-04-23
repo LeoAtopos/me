@@ -1,5 +1,9 @@
 <h1>文章 Articles</h1>
 
+## **散文**（最新更新）
+  * [谈谈贾木许](Articles/Jarmusch.md)
+  * [玩游戏的档位](Articles/PlayGear.md)
+
 ----
 
 ## **[传统文化概念系统化1.0](https://www.bilibili.com/read/cv17282826)**<a id="001"></a>
@@ -28,10 +32,6 @@
   * 2021年的科幻小说，参加了个小说比赛。有入围没拿奖，我觉得大概一般人都看不懂，我也没想写的太通俗，那就没意思了。
   * 这里面玩了叙事角度的变化，最后会出现一个应该历史上都没有的一个叙事角度。我感觉还挺奇妙的。
   * 这里补充个[作者说明](Articles/BornOfJ-ref.md)，实在想搞明白背后的故事设定的，可以看这里。
-
-## **散文**
-  * [谈谈贾木许](Articles/Jarmusch.md)
-  * [玩游戏的档位](Articles/PlayGear.md)
 
 ## 更多
   * 在机核：[LD离地](https://www.gcores.com/users/273050/talks)
