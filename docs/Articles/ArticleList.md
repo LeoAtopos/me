@@ -31,6 +31,7 @@
 
 ## **散文**
   * [谈谈贾木许](Articles/Jarmusch.md)
+  * [玩游戏的档位](Articles/PlayGear.md)
 
 ## 更多
   * 在机核：[LD离地](https://www.gcores.com/users/273050/talks)
