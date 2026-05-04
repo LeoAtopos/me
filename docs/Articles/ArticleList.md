@@ -3,6 +3,9 @@
 ## **散文**（最新更新）
   * [谈谈贾木许](Articles/Jarmusch.md)
   * [玩游戏的档位](Articles/PlayGear.md)
+  * [如是我闻](Articles/ThusHaveIHeard.md)
+  * [现在的孩子玩的不一样了](KidsNow.md)
+  * [意义的结构转向](Articles/TurnOfMeaning.md)
 
 ----
 
