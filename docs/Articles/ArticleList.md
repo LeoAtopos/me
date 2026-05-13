@@ -6,6 +6,9 @@
   * [如是我闻](Articles/ThusHaveIHeard.md)
   * [现在的孩子玩的不一样了](KidsNow.md)
   * [意义的结构转向](Articles/TurnOfMeaning.md)
+  * [麻辣烫不辣，忍住那口优越感](Articles/StopThat.md)
+  * [主体人与工具人](Articles/SubjecterAndTooler.md)
+  * [人以载文](Articles/CharacterTextureWen.md)
 
 ----
 
