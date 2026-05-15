@@ -9,6 +9,7 @@
   * [麻辣烫不辣，忍住那口优越感](Articles/StopThat.md)
   * [主体人与工具人](Articles/SubjecterAndTooler.md)
   * [人以载文](Articles/CharacterTextureWen.md)
+  * [“不同意”的故事](Articles/DisAgree.md)
 
 ----
 
