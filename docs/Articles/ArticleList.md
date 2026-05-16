@@ -10,6 +10,7 @@
   * [主体人与工具人](Articles/SubjecterAndTooler.md)
   * [人以载文](Articles/CharacterTextureWen.md)
   * [“不同意”的故事](Articles/DisAgree.md)
+  * [亚当斯密学术造假](Articles/FakeAdam.md)
 
 ----
 
