@@ -1,4 +1,4 @@
-
+<!-- {docsify-ignore-all} -->
 <style>
 img{
     width: 30%;
