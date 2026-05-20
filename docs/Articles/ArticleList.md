@@ -13,6 +13,7 @@
   * [亚当斯密学术造假](Articles/FakeAdam.md)
   * [活在虚拟层很糟糕](Articles/VirtualLayer.md)
   * [生命力审美](Articles/LifeAesthetics.md)
+  * [英语学到一定程度后可能需要解惑的一些语言学知识点](Articles/UnderStandEnglish.md)
 
 ----
 
