@@ -16,6 +16,7 @@
   * [英语学到一定程度后可能需要解惑的一些语言学知识点](Articles/UnderStandEnglish.md)
   * [解析占有，精致自省](Articles/LayersOfOwnership.md)
   * [正确的批判是界定适用范围而非彻底否定](Articles/RealCritic.md)
+  * [文化征服征服者的现象](Articles/CultureConquer.md)
 
 ----
 
