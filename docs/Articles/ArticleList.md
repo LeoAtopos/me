@@ -18,6 +18,7 @@
   * [正确的批判是界定适用范围而非彻底否定](Articles/RealCritic.md)
   * [文化征服征服者的现象](Articles/CultureConquer.md)
   * [意义源于叙事](Articles/MeaningFromNarrative.md)
+  * [现代文明应该好好审视文化](Articles/ModernCulture.md)
 
 ----
 
